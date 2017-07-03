@@ -18,4 +18,4 @@ by: [Lewis Nyoike](https://github.com/Luey-Ny0ike) & [Edward Mudaida](edwardmuda
 
 ## LICENSE
 
-[MIT LICENSE]()
+[MIT LICENSE](https://github.com/Luey-Ny0ike/Triangles/blob/master/LICENSE)
